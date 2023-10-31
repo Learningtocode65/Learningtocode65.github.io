@@ -1,0 +1,36 @@
+header{
+    background-color: Black;
+    text-align: justify;
+  }
+  .about-company{
+    font-size: 18px;
+    opacity: 1;
+  }
+  body {
+    padding: 20px;
+    font-family: Arial;
+    color: Red;
+    opacity: 0.8;
+    border: 100px, solid, blue;
+    background-image: url('https://th.bing.com/th/id/R.b853bb84ceea730f60d2666f96ce76a9?rik=HSjWf%2fftevfM8w&riu=http%3a%2f%2fwww.epicsound.com%2fblog%2fwp-content%2fuploads%2f2013%2f04%2fphotodune-1625438-movies-film-blue-light-background-s-700x300.jpg&ehk=wQFukF8RYvBLf4SWtVGcSnHcQcq4LzjnlJC9UCB6Vfo%3d&risl=&pid=ImgRaw&r=0')
+  }
+  .title{
+    font-weight: bold;
+  }
+  h1{
+    color: White;
+  }
+  h2{
+    color: White;
+  }
+  p{
+    font-weight: bold;
+    color: red;
+  }
+  .ul img{
+    width: 100px;
+  }
+  li{
+    font-weight: bold;
+    color: Red;
+  }
